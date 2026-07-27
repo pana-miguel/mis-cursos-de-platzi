@@ -71,6 +71,6 @@ En este apartado verás la introducción a cada uno de los cursos que he realiza
 
   
 
-Próximamente se agregarán más cursos a esta lista conforme avance en mi ruta de aprendizaje.
+Próximamente se agregarán más cursos a esta lista conforme avance en mi ruta de aprendizaje
 
 ---
